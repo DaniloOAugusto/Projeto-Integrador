@@ -46,6 +46,12 @@ estabelecidos com a escola e emite extratos financeiros.
 
 ## Aluno
 
+## Fornecedor
+
+## Administrador
+
+## MER (Modelo Entidade Relacionamento)
+
 
 
 
