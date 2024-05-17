@@ -30,7 +30,7 @@ educacional, simplificando processos administrativos e melhorando a comunicaçã
 envolvidos.
 
 ## Telas
-* Home - Irá exibir campo de login e senha para diversos atores, pessoas físicas e jurídicas.
+* Início - Irá exibir campo de login e senha para diversos atores, pessoas físicas e jurídicas.
 * Professor -  O professor atualiza e checa o cronograma de aulas, provas, material didático e
 informações pessoais.
 * Aluno - Será possivel visualizar cronograma de aulas, notas, acessar o material didático, gerar boletim, solicitar documentos acadêmicos, gerenciar suas informações pessoais e
