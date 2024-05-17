@@ -4,13 +4,17 @@
 Repositório do Projeto Integrador : Desenvolvimento de Sistemas Orientado a Objetos do SENAC. Os integrantes do grupo são:
 
 - Bruno Gomes Ascenso
-- Pedro Araujo Pavão
+- Danilo Augusto Gonçalves Da Silva
 - Dayane Kely Ventura Sampaio
-- Larissa Neves Martins
-- Luis Ricardo da Silva Abrantes
 - Elen Fernanda BArbaglia
 - Esmael Kugelmeier Tondello
-- Danilo Augusto Gonçalves Da Silva
+- Larissa Neves Martins
+- Luis Ricardo da Silva Abrantes
+- Pedro Araujo Pavão
+
+
+
+
 
 ## Objetivo/ Descrição.
 
