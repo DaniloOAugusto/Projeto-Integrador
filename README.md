@@ -36,3 +36,21 @@ estabelecidos com a escola e emite extratos financeiros.
 * Administrador - O administrador cria, atualiza, exclui: disciplinas, atores (pessoa PF ou PJ).
 
 
+## Link das telas no 
+
+## Link do protótipo das telas
+
+## Login
+
+## Professor
+
+## Aluno
+
+
+
+
+
+
+
+
+
