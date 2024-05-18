@@ -64,10 +64,7 @@ estabelecidos com a escola e emite extratos financeiros.
 ![](/docs/)
 
 ## MER (Modelo Entidade Relacionamento)
-![](/docs/MER.jpg)
-
-
-
+![MER.jpg](/docs/MER.jpg)
 
 
 
