@@ -41,7 +41,7 @@ estabelecidos com a escola e emite extratos financeiros.
 
 
 ## Link das telas no Figma
-*https://www.figma.com/design/yW0HH8Ts6r2Gbz6sCFOrBf/PI?m=dev&node-id=0%3A1&t=XRDPxKADfVdaUZDH-1
+* https://www.figma.com/design/yW0HH8Ts6r2Gbz6sCFOrBf/PI?m=dev&node-id=0%3A1&t=XRDPxKADfVdaUZDH-1
 
 ## Link do protótipo das telas
 
