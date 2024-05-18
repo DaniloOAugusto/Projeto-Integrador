@@ -47,16 +47,24 @@ estabelecidos com a escola e emite extratos financeiros.
 ![gato_preto.png](/docs/gato_preto.png)
 
 ## Login
-
+![](/docs/)
+![](/docs/)
 ## Professor
-
+![](/docs/)
+![](/docs/)
 ## Aluno
-
+![](/docs/)
+![](/docs/)
 ## Fornecedor
+![](/docs/)
+![](/docs/)
 
 ## Administrador
+![](/docs/)
+![](/docs/)
 
 ## MER (Modelo Entidade Relacionamento)
+![](/docs/)
 
 
 
