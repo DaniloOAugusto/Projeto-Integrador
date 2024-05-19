@@ -52,14 +52,18 @@ estabelecidos com a escola e emite extratos financeiros.
 ## Professor
 ![Cadastro_professor.jpg](/docs/Cadastro_professor.jpg)
 ![Login_professor.jpg](/docs/Login_professor.jpg)
+![](/docs/)
 ## Aluno
 ![Cadastro_aluno.jpg](/docs/Cadastro_aluno.jpg)
 ![Login_aluno.jpg](/docs/Login_aluno.jpg)
+![](/docs/)
 ## Fornecedor
 ![Cadastro_fornecedor.jpg](/docs/Cadastro_fornecedor.jpg)
 ![Login_fornecedor.jpg](/docs/Login_fornecedor.jpg)
+![](/docs/)
 
 ## Administrador
+![](/docs/)
 ![](/docs/)
 ![](/docs/)
 
