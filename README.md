@@ -67,7 +67,7 @@ estabelecidos com a escola e emite extratos financeiros.
 ![MER.jpg](/docs/MER.jpg)
 
 ##  Sistema Escolar 
-![Sistema_escolar.jpg](/docs/)
+![Sistema_escolar.jpg](/docs/Sistema_escolar.jpg)
 
 
 
