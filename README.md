@@ -52,20 +52,20 @@ estabelecidos com a escola e emite extratos financeiros.
 ## Professor
 ![Cadastro_professor.jpg](/docs/Cadastro_professor.jpg)
 ![Login_professor.jpg](/docs/Login_professor.jpg)
-![](/docs/)
+![Menu_Professor.jpg](/docs/Menu_Professor.jpg)
 ## Aluno
 ![Cadastro_aluno.jpg](/docs/Cadastro_aluno.jpg)
 ![Login_aluno.jpg](/docs/Login_aluno.jpg)
-![](/docs/)
+![Menu_aluno.jpg](/docs/Menu_aluno.jpg)
 ## Fornecedor
 ![Cadastro_fornecedor.jpg](/docs/Cadastro_fornecedor.jpg)
 ![Login_fornecedor.jpg](/docs/Login_fornecedor.jpg)
-![](/docs/)
+![Menu_fornecedor.jpg](/docs/Menu_fornecedor.jpg)
 
 ## Administrador
-![](/docs/)
-![](/docs/)
-![](/docs/)
+![Cadastro_administrador.jpg](/docs/Cadastro_administrador.jpg)
+![Login_administrador](/docs/Login_administrador)
+![Menu_administrador](/docs/Menu_administrador)
 
 ## MER (Modelo Entidade Relacionamento)
 ![MER.jpg](/docs/MER.jpg)
