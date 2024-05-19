@@ -46,7 +46,7 @@ estabelecidos com a escola e emite extratos financeiros.
 ## Protótipo das telas no Figma
 ![](/docs/)
 
-## Tela Inicial
+## Página Inicial
 ![](/docs/)
 
 ## Professor
