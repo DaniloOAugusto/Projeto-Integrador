@@ -57,6 +57,7 @@ estabelecidos com a escola e emite extratos financeiros.
 ![Cadastro_aluno.jpg](/docs/Cadastro_aluno.jpg)
 ![Login_aluno.jpg](/docs/Login_aluno.jpg)
 ![Menu_aluno.jpg](/docs/Menu_aluno.jpg)
+
 ## Fornecedor
 ![Cadastro_fornecedor.jpg](/docs/Cadastro_fornecedor.jpg)
 ![Login_fornecedor.jpg](/docs/Login_fornecedor.jpg)
@@ -64,8 +65,8 @@ estabelecidos com a escola e emite extratos financeiros.
 
 ## Administrador
 ![Cadastro_administrador.jpg](/docs/Cadastro_administrador.jpg)
-![Login_administrador](/docs/Login_administrador)
-![Menu_administrador](/docs/Menu_administrador)
+![Login_administrador.jpg](/docs/Login_administrador.jpg)
+![Menu_administrador.jpg](/docs/Menu_administrador.jpg)
 
 ## MER (Modelo Entidade Relacionamento)
 ![MER.jpg](/docs/MER.jpg)
