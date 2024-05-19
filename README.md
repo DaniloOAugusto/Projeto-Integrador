@@ -66,6 +66,10 @@ estabelecidos com a escola e emite extratos financeiros.
 ## MER (Modelo Entidade Relacionamento)
 ![MER.jpg](/docs/MER.jpg)
 
+##  Sitema Escolar 
+![](/docs/)
+
+
 
 
 
