@@ -47,13 +47,13 @@ estabelecidos com a escola e emite extratos financeiros.
 ![Prototipo_figma.jpg](/docs/Prototipo_figma.jpg)
 
 ## Página Inicial
-![](/docs/)
+![Pagina_inicial.jpg](/docs/Pagina_inicial.jpg)
 
 ## Professor
-![](/docs/)
-![](/docs/)
+![Cadastro_professor.jpg](/docs/Cadastro_professor.jpg)
+![Login_professor.jpg](/docs/Login_professor.jpg)
 ## Aluno
-![](/docs/)
+![Cadastro_aluno.jpg](/docs/Cadastro_aluno.jpg)
 ![](/docs/)
 ## Fornecedor
 ![](/docs/)
