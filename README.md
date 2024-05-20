@@ -44,7 +44,7 @@ estabelecidos com a escola e emite extratos financeiros.
 * https://www.figma.com/design/yW0HH8Ts6r2Gbz6sCFOrBf/PI?m=dev&node-id=0%3A1&t=XRDPxKADfVdaUZDH-1
 
 ## Protótipo das telas no Figma
-![Prototipo_figma.jpg](/docs/Prototipo_figma.jpg)
+![Protonew_figma.jpg](/docs/Protonew_figma.jpg)
 
 ## Página Inicial
 ![Pagina_inicial.jpg](/docs/Pagina_inicial.jpg)
