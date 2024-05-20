@@ -8,7 +8,7 @@ Repositório do Projeto Integrador : Desenvolvimento de Sistemas Orientado a Obj
 - Dayane Kely Ventura Sampaio
 - Elen Fernanda Barbaglia
 - Esmael Kugelmeier Tondello
-- Larissa Neves Martins
+- Larissa Neres Martins
 - Luis Ricardo da Silva Abrantes
 - Pedro Araujo Pavão
 
