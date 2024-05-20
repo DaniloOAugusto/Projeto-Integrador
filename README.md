@@ -1,5 +1,5 @@
 
-# Projeto Escolar.
+# Projeto Escolar!
 
 Repositório do Projeto Integrador : Desenvolvimento de Sistemas Orientado a Objetos do SENAC. Os integrantes do grupo são:
 
